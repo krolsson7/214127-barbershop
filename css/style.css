@@ -1,0 +1,17 @@
+body,
+h1,
+h2 {
+color: #ffffff;
+font-weight: bold;
+font-family: 'PT Sans Narrow', Arial, sans-serif;
+}
+body {
+  font-size: 14px;
+  line-height: 24px;
+}
+h1,
+h2 {
+  font-size: 30px;
+  line-height: 42px;
+}
+ 
