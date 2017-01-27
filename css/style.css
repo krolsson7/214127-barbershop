@@ -2,9 +2,9 @@
 body,
 h1,
 h2 {
-color: #ffffff;
 font-weight: bold;
 font-family: 'PT Sans Narrow', Arial, sans-serif;
+color: #000000;
 }
 body {
   font-size: 14px;
